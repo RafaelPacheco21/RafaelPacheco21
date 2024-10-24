@@ -46,16 +46,6 @@
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
-<br>
-
-## Contact me:
-<div>
-<a href="https://www.instagram.com/sk1zt1/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:rafaelagustin007@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="#" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="#" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Website-%23000000?style=for-the-badge&logo=globe&logoColor=white" target="_blank"></a>
-
-</div>
 
 <br>
 
