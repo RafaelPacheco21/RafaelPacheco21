@@ -33,7 +33,7 @@
 ### 📌 &nbsp;Academic Background:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
-[<img align="left" height="94px" width="94px" alt="UPC" src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png"/>](https://www.upc.edu.pe/)
+[<img align="left" height="94px" width="94px" alt="UPC" src="https://img.logo.dev/upc.edu.pe?token=pk_CuNQQ38rSJWT61-FBQq5AQ&retina=true"/>](https://www.upc.edu.pe/)
 **Software Engineering** \
 [**UPC**](https://www.upc.edu.pe/)  • In progress\
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
